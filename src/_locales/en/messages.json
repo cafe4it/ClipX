@@ -1,0 +1,10 @@
+{
+  "extName" : {
+    "message" : "ClipX",
+    "description" : "Extension name"
+  },
+  "extDescription" : {
+    "message" : "ClipX is a tiny clipboard history manager. It is sweet, it is free, use it.",
+    "description" : "Extension description"
+  }
+}
